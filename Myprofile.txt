@@ -1,0 +1,3 @@
+Name : XYZ
+Age : x
+Education : Bachelor of Technology(Information Technology)
